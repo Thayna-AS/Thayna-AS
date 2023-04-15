@@ -7,6 +7,7 @@
   <a href="https://github.com/Thayna-AS/Thayna-AS">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Thayna-AS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayna-AS&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img align="right" height= "300" width= "300" src=https://user-images.githubusercontent.com/109924086/232233305-df627a6e-78a7-4114-9640-677524608e59.png>
 </div>
 
 ##
@@ -20,7 +21,6 @@
 <img align="center" alt="Thayna-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">    
 <img align="center" alt="Thayna-Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="Thayna-Markdown" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> 
-<img align="right" height= "300" width= "300" src=https://user-images.githubusercontent.com/109924086/232233305-df627a6e-78a7-4114-9640-677524608e59.png>
 </div>
 
 
