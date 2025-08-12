@@ -1,7 +1,7 @@
-### ✨Olá mundo! Eu sou Thayna de Almeida, seja bem vindo ao GitHub!✨
+### ✨Olá mundo! Eu sou Thayna de Almeida, seja bem vindo ao meu GitHub!✨
 
-- 🌱 Me formando em Banco de dados 2/5.
-- 😄 Pronouns: Ela/ dela. 
+- 🎓 Formação em Banco de dados 4/5.
+- 💻 Analista de dados na B3
 ##
 <div align="center">
   <a href="https://github.com/Thayna-AS/Thayna-AS">
